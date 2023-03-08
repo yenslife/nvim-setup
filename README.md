@@ -4,7 +4,8 @@ I love neovim
 
 # Prerequisites
 
-Install neovim, ripgrep(for telescope), node
+Install neovim, ripgrep(for telescope), node.
+Be sure to use true color terminal like iterm2
 
 ```bash
 brew install nvim
