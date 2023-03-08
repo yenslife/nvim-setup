@@ -16,6 +16,8 @@ Download
 
 ```bash
 cd ~/.config
-git clone [url]
+git clone [git_url_here]
 mv nvim-setup nvim
+chmod +x setup.sh
+./setup [your_name_here]
 ```
